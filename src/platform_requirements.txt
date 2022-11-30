@@ -1,2 +1,2 @@
-grpcio==1.38.0
+grpcio==1.51.1
 protobuf==3.19.0
